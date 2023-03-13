@@ -2,11 +2,5 @@
 	path = DataTools5
 	url = https://nmoschkin@github.com/nmoschkin/DataTools5.git
 [submodule "datatools-common"]
-	path = datatools-common
-	url = git@github.com:nmoschkin/datatools.git
-[submodule "datatools-windows"]
-	path = datatools-windows
-	url = git@github.com:nmoschkin/datatools.git
-[submodule "datatools-win32"]
-	path = datatools-win32
+	path = datatools
 	url = git@github.com:nmoschkin/datatools.git
